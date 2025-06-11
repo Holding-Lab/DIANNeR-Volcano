@@ -5,7 +5,7 @@ library(dplyr)
 library(stringr)
 
 
-#rsconnect::deployApp('.', appName = "GR-volcano-plot) 
+#rsconnect::deployApp('.', appName = "GR-volcano-plot") 
 
 DEResults<-read.csv("DE_results.csv")
 
